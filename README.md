@@ -13,13 +13,13 @@ A TinyML-based approach for real-time State of Charge (SoC) estimation of lithiu
 
 
 - STM32L432KCU Microcontroller
-- Sensors (if any — mention yours)
+- Sensors (ACS712,NTC Thermistor)
 - USB / UART for output
 
 
 - Model type: (e.g., TCN / Neural Network)
-- Framework: TensorFlow / Keras
-- Quantization: INT8 (important — mention this)
+- Framework: TensorFlow
+- Quantization: INT8 
 - Deployment: X-CUBE-AI
 
 1. Open STM32CubeIDE
